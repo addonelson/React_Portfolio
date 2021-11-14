@@ -1,0 +1,81 @@
+:root {
+    --red: #cc2f2f;
+    --blue: hsl(255, 97%, 38%);
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--blue);
+    background-color: var(--red);
+}
+
+.card-text {
+    font-family: 'Lora', serif;
+    color: var(--blue);
+    background-color: var(--red);
+    border-top: var(--blue) solid 1px;
+    padding-top: 7px;
+}
+
+.card-body {
+    background-color: var(--red);
+}
+
+.card {
+    border: var(--red) 10px solid;
+}
+
+.row {
+    text-align: center;
+}
+
+.card-img-top {
+    filter: opacity(70%);
+}
+
+.col {
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .row-cols-md-2>* {
+        flex: 0 0 auto;
+        width: 45%;
+        justify-content: center;
+    }
+}
+
+.projects-div {
+    width: 98%;
+    text-align: center;
+    justify-content: center;
+}
+
+a.button6 {
+    display: inline-block;
+    padding: 0.7em 1.4em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.15em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #FFFFFF;
+    background-color: var(--blue);
+    box-shadow: inset 0 -0.6em 0 -0.35em rgba(0, 0, 0, 0.17);
+    text-align: center;
+    position: relative;
+    width: 150px;
+}
+
+a.button6:active {
+    top: 0.1em;
+}
+
+@media all and (max-width:30em) {
+    a.button6 {
+        display: block;
+        margin: 0.4em auto;
+    }
+}

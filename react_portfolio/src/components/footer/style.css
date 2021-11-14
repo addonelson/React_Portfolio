@@ -1,0 +1,35 @@
+:root {
+    --red: #630606;
+    --blue: hsl(256, 25%, 27%);
+}
+
+.footer {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    left: 6%;
+    height: 2.5rem;
+}
+
+.padding-i {
+    padding: 0 20px;
+    color: var(--blue);
+}
+
+a {
+    color: var(--blue);
+    text-decoration: none;
+}
+
+a:hover, .fa-phone:hover {
+    color: white;
+}
+
+i {
+    font-size: 25px;
+}
+
+.popover-header {
+    color: var(--blue);
+}

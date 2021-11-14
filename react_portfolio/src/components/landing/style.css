@@ -1,0 +1,11 @@
+:root {
+    --red: #630606;
+    --blue: hsl(256, 25%, 27%);
+}
+
+.landing {
+    color: var(--blue);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-top: 125px;
+}

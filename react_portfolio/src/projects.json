@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Tech Blog",
-        "image": "./assets/tech_blog.png",
+        "image": "./images/tech_blog.png",
         "description": "Fullstack application utilizing MVC framework",
         "technical": "JavaScript | Handlebars | Express.js | MySQL | Sequelize | CSS | Bootstrap",
         "repo": "https://github.com/addonelson/Tech_blog",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "name": "Team portfolio generator",
-        "image": "./assets/team_card_generator.png",
+        "image": "./images/team_card_generator.png",
         "description": "Designed to support small or large teams with their portfolios",
         "technical": "Node.js | Jest | JavaScript | HTML | Bootstrap",
         "repo": "https://github.com/addonelson/team_portfolio_generator",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "Whats the weather like",
-        "image": "./assets/weatherapi.png",
+        "image": "./images/weatherapi.png",
         "description": "Weather Api which allows searches by city, saves old searches and shows a 5 day forecast",
         "technical": "JavaScript | HTML | CSS | Server-Side APIs | Bootstrap",
         "repo": "https://github.com/addonelson/Whats_the_weather_like",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "name": "Whats your game",
-        "image": "./assets/GameSearch.png",
+        "image": "./images/GameSearch.png",
         "description": "Allows users to search for games based off genre and platform.",
         "technical": "JavaScript | HTML | CSS | Server-Side APIs | Bootstrap",
         "repo": "https://github.com/addonelson/project1",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "name": "DeckedOut",
-        "image": "./assets/DeckedOut_decks.png",
+        "image": "./images/DeckedOut_decks.png",
         "description": "Study platform for which allows users to create study cards and decks.",
         "technical": "JavaScript | Handlebars | Express.js | MySQL | Sequelize | CSS | Materialize",
         "repo": "https://github.com/addonelson/Decked-Out",

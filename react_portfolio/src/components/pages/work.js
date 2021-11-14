@@ -19,10 +19,8 @@ export default class Work extends Component {
                             <ProjectCard
                                 id={project.id}
                                 key={project.id}
-                                name={project.name}
                                 image={process.env.PUBLIC_URL + project.image}
-                                description={project.description}
-                                tech={project.tech}
+                                name={project.name}
                                 repo={project.repo}
                                 deployed={project.deployed}
                             />

@@ -1,6 +1,7 @@
 :root {
     --red: #cc2f2f;
     --blue: hsl(255, 97%, 38%);
+    font-size: px;
 }
 
 .card-title {

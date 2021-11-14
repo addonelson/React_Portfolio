@@ -3,6 +3,9 @@
   --blue: hsl(256, 25%, 27%);
   font-size: 25px;
 }
+a {
+  font-size: 14px;
+}
 
 * {
   background-color: var(--red);

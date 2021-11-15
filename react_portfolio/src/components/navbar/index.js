@@ -10,7 +10,6 @@ import "./style.css";
 export default function Navigation() {
     return (
         <Navbar className="navbar-margin" expand="lg">
-            <Navbar.Brand className="np">AD</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">

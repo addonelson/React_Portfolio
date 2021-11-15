@@ -7,10 +7,10 @@ Here I have created a single page react portfolio. This project was created to i
 No installation is reuired. Simply follow the deployed link: https://addonelson.github.io/React_Portfolio/
 
 ## Usage
-![alt text](public/images/aboutMe.png)
+![alt text](react_portfolio/public/images/aboutMe.png)
 
 
-![alt text](public/images/landingPage.png) 
+![alt text](react_portfolio/public/images/landingPage.png) 
 
 ## License
 - MIT License
